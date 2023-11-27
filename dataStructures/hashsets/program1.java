@@ -13,6 +13,8 @@ public class program1 {
         set.add(1);
 
         // searching
-        System.out.println(set.contains(5));
+        System.out.println(set.contains(5)); // returns boolean
+        
+
     }
 }
